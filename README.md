@@ -6,17 +6,17 @@ I'm now focusing on the design of Image Processing such as Comuper Vision.
 I love challenges which make me stronger.  
 As an Engineer, I find the problem, I face the problem, and I solve the problem.
 
----
+
 ## Contact
 * 📧 E-Mail   vincent932693@gmail.com
 * 🔗 LinkedIn https://www.linkedin.com/in/vincent-liao-4458ba1ba/
----
+
 ## Ability
 * Programing Language : Python, C++, C
 * System : Linux, ROS, Windows
 * Tools : Github, Opencv, Pytorch, Tensorflow
 * Language : English, Chinese
----
+
 ## Experience
 * Sept. 2021 - Now 
     * Algorithm Engineer in Tyrafos Co., LTD
