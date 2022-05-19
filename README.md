@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiaoU3
 - 👀 I’m interested in every challenge
 - 🌱 I’m currently learning DATA structure, Image Processing etc.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for a challenging position
 - 📫 How to reach me : vincent932693@gmail.com
 
 <!---
