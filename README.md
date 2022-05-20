@@ -10,11 +10,11 @@ As an Engineer, I find the problem, I face the problem, and I solve the problem.
 ## Contact
 * <a href="https://www.linkedin.com/in/vincent-liao-4458ba1ba/">
   <img align="left" alt="Vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   https://www.linkedin.com/in/vincent-liao-4458ba1ba/
+  </a> https://www.linkedin.com/in/vincent-liao-4458ba1ba/
 
-* <a href="vincent932693@gmail.com">
-  <img align="left" alt="Vincent's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png" />
-   vincent932693@gmail.com
+* <a href="mailto:vincent932693@gmail.com">
+  <img align="left" alt="Vincent's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  </a> vincent932693@gmail.com
 
 ## Ability
 * Programing Language : Python, C++, C
