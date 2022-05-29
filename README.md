@@ -19,7 +19,7 @@ As an Engineer, I find the problem, I face the problem, and I solve the problem.
 ## Ability
 * Programing Language : Python, C++, C
 * System : Linux, ROS, Windows
-* Tools : Github, Opencv, Pytorch, Tensorflow
+* Tools : Git, Opencv, Pytorch, Tensorflow
 * Language : English, Chinese
 
 ## Experience
