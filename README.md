@@ -2,7 +2,7 @@
 
 ## About me
 Hello everyone, I am Vincent, an Algorithm Engineer in Tyrafos Co., LTD.  
-I'm now focusing on the design of Image Processing such as Comuper Vision.  
+I'm now focusing on the design of Image Processing such as Computer Vision.  
 I love challenges which make me stronger.  
 As an Engineer, I find the problem, I face the problem, and I solve the problem.
 
