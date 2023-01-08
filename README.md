@@ -1,7 +1,7 @@
 # LiaoU3
 
 ## About me
-Hello everyone, I am Vincent, an **QA Software Engineer** in **Canonical**.  
+Hello everyone, I am Vincent, a **QA Software Engineer** in **Canonical**.  
 I'm now focusing on the design of Testing Process.  
 I love challenges which make me stronger.  
 As an Engineer, I find the problem, I face the problem, and I solve the problem.
