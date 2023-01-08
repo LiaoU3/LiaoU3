@@ -1,8 +1,8 @@
 # LiaoU3
 
 ## About me
-Hello everyone, I am Vincent, an Algorithm Engineer in Tyrafos Co., LTD.  
-I'm now focusing on the design of Image Processing such as Computer Vision.  
+Hello everyone, I am Vincent, an **QA Software Engineer** in **Canonical**.  
+I'm now focusing on the design of Testing Process.  
 I love challenges which make me stronger.  
 As an Engineer, I find the problem, I face the problem, and I solve the problem.
 
@@ -17,13 +17,16 @@ As an Engineer, I find the problem, I face the problem, and I solve the problem.
   </a> vincent932693@gmail.com
 
 ## Ability
-* Programing Language : Python, C++, C
+* Programing Language : Python, Shell script, C++, C
 * System : Linux, ROS, Windows
 * Tools : Git, Opencv, Pytorch, Tensorflow
 * Language : English, Chinese
 
 ## Experience
-* Sept. 2021 - Now 
+* Oct. 2022 - Now
+    * QA Software Engineer in Canonical
+
+* Sept. 2021 - Oct. 2022
     * Algorithm Engineer in Tyrafos Co., LTD
 
 * Sept. 2020
