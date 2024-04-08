@@ -2,19 +2,15 @@
 
 ## About me
 Hello everyone, I am Vincent, a **QA Software Engineer** in **Canonical**.  
-I'm now focusing on the design of Testing Process.  
-I love challenges which make me stronger.  
+I'm now focusing on the testing automation.  
+I love challenges because it always makes me stronger.  
 As an Engineer, I find the problem, I face the problem, and I solve the problem.
 
 
 ## Contact
-* <a href="https://www.linkedin.com/in/vincent-liao-4458ba1ba/">
-  <img align="left" alt="Vincent's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a> https://www.linkedin.com/in/vincent-liao-4458ba1ba/
+* [Vincent-Liao@Linkedin](https://www.linkedin.com/in/vincent-liao-4458ba1ba/)
 
-* <a href="mailto:vincent932693@gmail.com">
-  <img align="left" alt="Vincent's Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-  </a> vincent932693@gmail.com
+* [vincent932693@gmail.com](vincent932693@gmail.com)
 
 ## Ability
 * Programing Language : Python, Shell script, C++, C
